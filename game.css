@@ -1,0 +1,10 @@
+body {
+	background-color: white;  
+}
+.centre 
+{
+	float: right;
+    width: 38%;
+    border: 3px solid #84480b;
+    padding: 10px;
+}
